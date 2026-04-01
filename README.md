@@ -43,7 +43,7 @@ Go to **Releases** and download the latest version.
 
 ## Creator
 
-**Md Parwez Qaisar (Quaisar009)**
+**(Quaisar009)**
 
 ---
 
