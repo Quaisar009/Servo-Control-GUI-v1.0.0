@@ -32,7 +32,12 @@ Go to **Releases** and download the latest version.
 ## Requirements
 
 - Windows OS  
-- USB-to-Serial driver (CH340 / FTDI)  
+- USB-to-Serial driver (CH340 / FTDI)
+
+- ## 📸 Preview
+
+![GUI Screenshot](GUI.png)
+
 
 ---
 
