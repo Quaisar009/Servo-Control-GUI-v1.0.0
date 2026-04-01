@@ -11,7 +11,7 @@ Go to **Releases** and download the latest version.
 
 ---
 
-## ⚙️ Features
+## Features
 
 - COM port selection
 - Servo scanning
